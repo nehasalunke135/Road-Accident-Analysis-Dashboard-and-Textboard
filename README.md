@@ -2,7 +2,7 @@
 ## Project Overview
 <a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Excel%20Project%20With%20Dashboard%20and%20Textboard.xlsx">Project Overview<a>
 ## Dashboard Screenshots
-<a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Dashboard%20.png">Dashboard<a>
+<a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/DashBoard.png">Dashboard<a>
 ## Textboard Screenshots
 <a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Textboard.png">Textboard<a>
 
