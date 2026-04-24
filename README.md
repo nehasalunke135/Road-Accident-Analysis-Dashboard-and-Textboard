@@ -2,7 +2,7 @@
 ## Project Overview
 <a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Dataset%20with%20Dashboard%20and%20Textboard.xlsx">Project Overview<a>
 ## Dashboard Screenshot
-<a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Dashboard%20.png"><a>
+<a href="https://github.com/nehasalunke135/Road-Accident-Analysis-Dashboard-and-Textboard/blob/main/Dashboard%20.png">Dashboard<a>
 
 ##Textboard Screenshot
 <a href=""><a>
